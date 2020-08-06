@@ -1,0 +1,21 @@
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brt
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+sec*.pdf
+
+.DS_Store
+Thumbs.db
+
+# Office
+~$*
+*.docx
+
+*.rtf
